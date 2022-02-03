@@ -1,0 +1,41 @@
+.App {
+	text-align: center;
+}
+
+main {
+	height: 500px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.btn-container {
+	margin-right: 7vw;
+}
+
+button {
+	margin: 50px;
+	color: blue;
+	font-size: 24px;
+	background-color: #efefef;
+	border: none;
+}
+
+button:hover {
+	cursor: pointer;
+}
+
+input {
+	font-size: 30px;
+	background-color: #efefef70;
+	border: none;
+	border-radius: 10px;
+}
+
+select {
+	font-size: 30px;
+	margin-left: 3vw;
+	background-color: white;
+	border-radius: 5px;
+	border: none;
+}
