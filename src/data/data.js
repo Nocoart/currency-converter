@@ -1,6 +1,7 @@
 export const rates = {
 	"": null,
 	USD: 1.18,
+	EUR: 1,
 	AED: 4.184818,
 	AFN: 86.247717,
 	ALL: 124.299351,
@@ -47,7 +48,6 @@ export const rates = {
 	EGP: 20.109824,
 	ERN: 17.088816,
 	ETB: 32.041765,
-	EUR: 1,
 	FJD: 2.408674,
 	FKP: 0.877578,
 	GBP: 0.879872,
