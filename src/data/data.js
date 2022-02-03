@@ -1,5 +1,5 @@
 export const rates = {
-	"": null,
+	start: null,
 	USD: 1.18,
 	EUR: 1,
 	AED: 4.184818,
