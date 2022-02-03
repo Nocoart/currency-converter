@@ -1,6 +1,6 @@
 export const rates = {
 	"": null,
-	USD: 1,
+	USD: 1.18,
 	AED: 4.184818,
 	AFN: 86.247717,
 	ALL: 124.299351,
